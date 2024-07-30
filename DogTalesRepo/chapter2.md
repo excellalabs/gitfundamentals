@@ -6,7 +6,7 @@ The next morning, Max and Bella were bursting with excitement as they made their
 
 Max nodded enthusiastically. “And we can finally understand what the humans are saying! We could help them too!”
 
-As they entered the park, the familiar sounds of children playing and birds singing filled the air. Max and Bella watched as people went about their day, oblivious to the miracle that had occurred.
+As they walked into the park, the usual sounds of children playing and birds singing filled the air. Max and Bella observed as people carried on with their routines, unaware of the miracle that had taken place.
 
 Suddenly, they heard a distressed meow coming from a nearby bush. A small kitten was stuck in the branches, her fur tangled and eyes wide with fear.
 
