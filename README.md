@@ -10,10 +10,10 @@ Git is a widely-used distributed version control system that allows multiple peo
 **History Tracking**: Maintains a history of changes, providing insight into what was changed, who changed it, and why.
 
 ## GIT Use Cases 
-1. Adding a New Feature (Chapter in our case)
+1. Adding a New Feature (Chapter in our case) - 
    https://github.com/excellaco/gitfundamentals/pull/1
-3. Fixing a Bug (Fixing a typo in chapter #3)
-4. Submit an addition to chapter #2
-5. Rebase long standing branch
-6. Live - Adding some new lines to an existing Feature that was also updated by someone else (merge conflicts)
+3. Fixing a Bug (Fixing a typo in chapter #3) -
+4. Submit an addition to chapter #2 - 
+5. Rebase long standing branch with main - 
+6. Merge conflict while adding addition to chapter #2 -
    
