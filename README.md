@@ -13,7 +13,7 @@ Git is a widely-used distributed version control system that allows multiple peo
 1. Adding a New Feature (Chapter in our case) - 
    https://github.com/excellaco/gitfundamentals/pull/1
 3. Fixing a Bug (Fixing a typo in chapter #3) - https://github.com/excellaco/gitfundamentals/pull/3
-4. Submit an addition to chapter #2 - 
+4. Submit an addition to chapter #2 - https://github.com/excellaco/gitfundamentals/pull/2
 5. Rebase long standing branch with main - 
 6. Merge conflict while adding addition to chapter #2 -
    
