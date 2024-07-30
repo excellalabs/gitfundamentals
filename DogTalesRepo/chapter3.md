@@ -10,7 +10,7 @@ Max’s ears perked up. “Treasure? Did you hear that, Bella? We could go on a 
 
 Bella, always the more cautious of the two, thought for a moment. “It sounds exciting, but we have to be careful. We don’t know what we might find.”
 
-Undeterred, Max wagged his tail eagerly. “It’ll be an adventure! And who knows, maybe we’ll find somting amazing.”
+Undeterred, Max wagged his tail eagerly. “It’ll be an adventure! And who knows, maybe we’ll find something amazing.”
 
 The next morning, armed with a rough map they had sketched from overhearing the humans, Max and Bella set out on their treasure hunt. They followed clues that led them through the forest, across streams, and over hills.
 
@@ -22,6 +22,6 @@ With hearts pounding, Max and Bella carefully opened the chest, revealing a coll
 
 Bella smiled, her eyes shining with pride. “We sure did. And we couldn’t have done it without each other.”
 
-As they made their way back home, treasure in tow, Max and Bella realized that the true reward wasn’t the gold or gewls, but the adventures and friendships they had forged along the way.
+As they made their way back home, treasure in tow, Max and Bella realized that the true reward wasn’t the gold or jewels, but the adventures and friendships they had forged along the way.
 
 And so, the two talking dogs returned to their town, ready for whatever new adventures awaited them, knowing that as long as they were together, they could face anything the world had to offer.
