@@ -11,8 +11,9 @@ Git is a widely-used distributed version control system that allows multiple peo
 
 ## GIT Use Cases 
 1. Adding a New Feature (Chapter in our case)
-2. Fixing a Bug (Fixing a typo in chapter #3)
-3. Submit an addition to chapter #2
+   https://github.com/excellaco/gitfundamentals/pull/1
+3. Fixing a Bug (Fixing a typo in chapter #3)
+4. Submit an addition to chapter #2
 5. Rebase long standing branch
 6. Live - Adding some new lines to an existing Feature that was also updated by someone else (merge conflicts)
    
