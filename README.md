@@ -37,7 +37,7 @@ Git is a widely-used distributed version control system that allows multiple peo
 
 ## Common Pitfalls
 1. Poor Commit Practices
-   - Problem: using "fixed stuff" or "test" as commit messages
+   - Problem: using "fixed stuff" or "test" as commit messages - Making uninformative or overly large commits can make it challenging to track changes and understand the project's history
    - Solution:
         * Meaningful commit messages
         * Smaller commits
