@@ -2,28 +2,41 @@
 
 The next morning, Max and Bella were bursting with excitement as they made their way to the park. They had spent the night discussing all the wonderful things they could do with their ability to talk, and today they planned to put some of their ideas into action.
 
-“What if we help lost pets find their way home?” suggested Bella as they walked along the path lined with blooming flowers.
+"What if we analyze the park's visitor data to help improve the experience for all dogs?" suggested Bella as they walked along the path lined with blooming flowers.
 
-Max nodded enthusiastically. “And we can finally understand what the humans are saying! We could help them too!”
+Max nodded enthusiastically. "And we can finally understand what the park's database is saying! We could help the park managers too!"
 
-As they entered the park, the familiar sounds of children playing and birds singing filled the air. Max and Bella watched as people went about their day, oblivious to the miracle that had occurred.
+As they entered the park, the familiar sounds of dogs playing and owners chatting filled the air. Max and Bella watched as people went about their day, oblivious to the miracle that had occurred.
 
-Suddenly, they heard a distressed meow coming from a nearby bush. A small kitten was stuck in the branches, her fur tangled and eyes wide with fear.
+Suddenly, they heard a distressed whimper coming from a nearby bench. A small pug was staring at a laptop screen, his eyes wide with confusion.
 
-“We have to help her!” said Max, rushing over to the kitten’s side.
+"We have to help him!" said Max, rushing over to the pug's side.
 
-“Hello there,” Bella said gently, her voice calm and reassuring. “We’re here to help you. Just hold still, and we’ll get you out of there.”
+"Hello there," Bella said gently, her voice calm and reassuring. "We're here to help you. What seems to be the problem?"
 
-The kitten stared in disbelief but quickly realized that the dogs were her friends. With careful teamwork, Max and Bella managed to free the kitten from the bush.
+The pug stared in disbelief but quickly realized that the dogs were his friends. "I'm trying to analyze the park's usage data, but I can't figure out how to write the right SQL query," he explained.
 
-“Thank you so much!” the kitten purred, her tiny body trembling with relief. “I thought I’d be stuck there forever.”
+"Don't worry," Max said, wagging his tail. "We can help you with that. What's your name?"
 
-“What’s your name?” Max asked, wagging his tail.
+"Charlie," the pug replied, his eyes filled with hope. "I was trying to find out which days are busiest in the park."
 
-“Luna,” the kitten replied, her eyes filled with gratitude. “I was trying to catch a butterfly and got lost.”
+Bella smiled. "Well, Charlie, you're in luck. Let's start with a simple query."
 
-Bella smiled. “Well, Luna, you’re safe now. Do you know how to get home?”
+Max and Bella worked together to help Charlie write his first SQL query:
 
-Luna nodded, looking around. “Yes, I live just across the street. My humans must be worried sick.”
+```sql
+SELECT day_of_week, COUNT(*) as visit_count
+FROM park_visits
+GROUP BY day_of_week
+ORDER BY visit_count DESC;
+```
 
-Max and Bella escorted Luna safely back to her home, feeling proud of their good deed. As they watched her reunite with her family, they knew they had found their calling. Helping those in need would be their new adventure.
+Charlie's eyes lit up as the results appeared on the screen. "This is amazing! Thank you so much!"
+
+Max and Bella felt proud of their good deed. As they watched Charlie share his findings with the park manager, they knew they had found their calling. Helping dogs and humans alike with data analysis would be their new adventure.
+
+"Just wait until we teach them about JOINs and subqueries!" Max said excitedly.
+
+Bella nodded in agreement. "SQL is going to change the dog park forever!"
+
+They knew they had found their calling. Helping those in need would be their new adventure.
