@@ -6,7 +6,7 @@ The next morning, Max and Bella were bursting with excitement as they made their
 
 Max nodded enthusiastically. "And we can finally understand what the park's database is saying! We could help the park managers too!"
 
-As they entered the park, the familiar sounds of dogs playing and owners chatting filled the air. Max and Bella watched as people went about their day, oblivious to the miracle that had occurred.
+As they walked into the park, the usual sounds of children playing and birds singing filled the air. Max and Bella observed as people carried on with their routines, unaware of the miracle that had taken place.
 
 Suddenly, they heard a distressed whimper coming from a nearby bench. A small pug was staring at a laptop screen, his eyes wide with confusion.
 
