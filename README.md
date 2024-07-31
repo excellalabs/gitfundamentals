@@ -33,4 +33,28 @@ Git is a widely-used distributed version control system that allows multiple peo
 4. Submit an addition to chapter #2 - https://github.com/excellaco/gitfundamentals/pull/2, https://github.com/excellaco/gitfundamentals/pull/4
 5. Rebase long standing branch with main - https://github.com/excellaco/gitfundamentals/compare/long_standing_branch...main
 6. Merge conflict while adding addition to chapter #2 -
+
+
+## Common Pitfalls
+1. Poor Commit Practices
+   - Problem: using "fixed stuff" or "test" as commit messages
+   - Solution:
+        * Meaningful commit messages
+        * Smaller commits
+2. Merge Conflict Mismanagement
+   - Problem:
+        * Automatically accepting changes without understanding the conflict.
+        * Overwriting important code or data while resolving conflicts.
+   - Solution:
+        * Carefully review and resolve merge conflicts by understanding both sets of changes.
+        * Use tools like Git's built-in merge conflict markers or visual merge tools to assist in the process
+        * Commit and Merge often and avoid long living branch
+        * Trunk Based Development!
+3. Not Using Branches Effectively
+   - Problem:
+        * cluttered main branch
+        * hard to manage different features or fixes
+   - Solution:
+        * Defining and using a branching strategy that suits your workflow
+        * Popular Branching strategies: Git Flow, Main/Trunk Based Development
    
